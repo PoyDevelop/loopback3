@@ -1,0 +1,36 @@
+// ติดตั้ง Loopback CLI
+npm install -g loopback-cli
+npm install -g apiconnect
+npm install -g strongloop
+
+
+// สร้างโปรเจคใหม่
+lb
+
+
+// รัน Project
+node .
+
+// สร้าง Model
+lb model
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
